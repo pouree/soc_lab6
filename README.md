@@ -27,7 +27,12 @@ cd ~/caravel-soc_fpga-lab/lab-wlos_baseline/testbench/uart
 source run_clean
 source run_sim
 ```
-
+### Simulation for all
+```sh
+cd ~/caravel-soc_fpga-lab/lab-wlos_baseline/testbench/all
+source run_clean
+source run_sim
+```
 ## Verification with Vivado
 ### Synthesis and Generate bitstream
 ```sh
